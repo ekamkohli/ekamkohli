@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/ekamkohli?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?
+[![Twitter Follow](https://img.shields.io/twitter/follow/ekamkohli?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fekamkohli&screen_name=ekamkohli)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ekamkohli)
