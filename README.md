@@ -1,3 +1,4 @@
+[![Linktree](https://img.shields.io/website?label=linktr.ee/ekamkohli&style=for-the-badge&url=https://linktr.ee/ekamkohli)](https://linktr.ee/ekamkohli)
 [![Website](https://img.shields.io/website?label=ekamkohli.github.io&style=for-the-badge&url=https://ekamkohli.github.io/)](https://ekamkohli.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ekamkohli?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fekamkohli&screen_name=ekamkohli)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ekamkohli)
