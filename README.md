@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ekamkohli?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fekamkohli&screen_name=ekamkohli)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ekamkohli)
 
-Current Software Engineer at **Redbelly Network** with **2.5+** years of experience specializing in JavaScript technologies. A super nerd who loves JavaScript & its frameworks, and libraries and enjoys customizing all of the development environments. Interested in devising a better problem‑solving method for challenging tasks, and learning new technologies and tools if the need arises. Skilled in Blockchain Decentralized Applications (DApps) Development.
+Current Software Engineer at **Redbelly Network** with **3.5+** years of experience specializing in JavaScript technologies. A super nerd who loves JavaScript & its frameworks, and libraries and enjoys customizing all of the development environments. Interested in devising a better problem‑solving method for challenging tasks, and learning new technologies and tools if the need arises. Skilled in Blockchain Decentralized Applications (DApps) Development.
 
 ## 🤝 Connect with me
 
